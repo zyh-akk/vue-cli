@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "chromedriver": "^2.38.3",
-    "deepmerge": "^2.1.0",
+    "deepmerge": "^4.2.2",
     "execa": "^0.10.0",
     "nightwatch": "^0.9.21",
     "selenium-server": "^3.11.0"
